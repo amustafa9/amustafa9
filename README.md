@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - 🌱 In particular, my background lies in analyzing 2D and 3D signals commonly found in various domains such as computer vision, medical image analysis, and seismic exploration. 
 - 👯 I’m looking to collaborate on methods improving the imaging and interpretation of visual signals in the above mentioned domains.
 - ⛹ You can reach me at my email _ahmadmustafa.am@gmail.com_.
-- 🏠 Check out my ![website](amustafa9.github.io) for a fuller description of my works
-- 📚 Check out the full list of my publications on my ![Google Scholar profile](https://scholar.google.com/citations?user=x10e8yQAAAAJ&hl=en) 
+- 🏠 Check out my [website](amustafa9.github.io) for a fuller description of my works
+- 📚 Check out the full list of my publications on my [Google Scholar profile](https://scholar.google.com/citations?user=x10e8yQAAAAJ&hl=en) 
